@@ -1,0 +1,34 @@
+header {
+    background-color: #244751;
+    color: #E8FDFF;
+    padding: 16px;
+  }
+
+  body {
+    background-color: whitesmoke;
+  }
+
+  main {
+  background-color: white;
+  padding: 16px;
+}
+.finstagram-post {
+    margin-bottom: 48px;
+  }
+
+  .finstagram-post .user-info img {
+    border-radius: 30%;
+  }
+  .my-class:hover {
+    color: red;
+  }
+
+  .my-class {
+    color: red;
+  }
+  a.photo{
+    transition: padding 0.8s;
+  }
+  a.photo:hover{
+    padding: 10px;
+  }
